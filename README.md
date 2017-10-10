@@ -1,4 +1,5 @@
 # LBTA Demo App
+![LBTA Demo App](/images/LBTADemoApp.pngA)
 
 ## Description
 Lets build Brain's demo app he uses during the [LetsBuildThatApp](https://www.youtube.com/watch?v=0mt4jY7SVA8) YouTube Livestreams.  This is a learning project to go along with GitHub's [Hacktoberfest](https://hacktoberfest.digitalocean.com).  The goal is to learn a few things and gain some experience using GitHub along with earning some SWAG.
