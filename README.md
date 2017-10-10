@@ -14,7 +14,7 @@ This project is all about learning. Introduce your code in small chunks with exp
 ### New Contributions
 Before working on something new, check these 2 things:
 1. Check the main page for existing implementation.
-2. Check the [pull requests[(https://github.com/endodoug/LBTADemoApp/pulls) for "claimed" issues.
+2. Check the [pull requests](https://github.com/endodoug/LBTADemoApp/pulls) for "claimed" issues.
 
 If you have any questions or need help with GitHub, open a [GitHub Issue](https://github.com/endodoug/LBTADemoApp/issues) for discussion.
 
