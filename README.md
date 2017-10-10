@@ -8,6 +8,9 @@ Lets build Brain's demo app he uses during the [LetsBuildThatApp](https://www.yo
 1. Sign for [Hacktoberfest](https://hacktoberfest.digitalocean.com) (optional).
 2. Clone the repo and build the App in Xcode 9.  
 
+## What We Are Building
+![LBTA Demo](/images/LBTADemo.png)
+
 ## Contributing Guidelines
 This project is all about learning. Introduce your code in small chunks with explanations so everyone can understand what you're doing or offer advice.  Feel free to offer improvements to existing code, fix typos, add relavent images, etc... No contribution is too small.
 
