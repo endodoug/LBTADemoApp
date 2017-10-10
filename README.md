@@ -15,9 +15,10 @@ Lets build Brain's demo app he uses during the [LetsBuildThatApp](https://www.yo
 This project is all about learning. Introduce your code in small chunks with explanations so everyone can understand what you're doing or offer advice.  Feel free to offer improvements to existing code, fix typos, add relavent images, etc... No contribution is too small.
 
 ### New Contributions
-Before working on something new, check these 2 things:
+Before working on something new, check these 3 things:
 1. Check the main page for existing implementation.
 2. Check the [pull requests](https://github.com/endodoug/LBTADemoApp/pulls) for "claimed" issues.
+3. Check the [project board](https://github.com/endodoug/LBTADemoApp/projects/1?).
 
 If you have any questions or need help with GitHub, open a [GitHub Issue](https://github.com/endodoug/LBTADemoApp/issues) for discussion.
 
